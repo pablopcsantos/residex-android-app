@@ -5,14 +5,6 @@ residência médica. O app reúne inscrições, provas, resultados e links ofici
 em uma experiência otimizada para smartphones, com dados sincronizados e cache
 local.
 
-## 👤 Autoria e desenvolvimento
-
-O Residex é um aplicativo Android nativo desenvolvido de forma independente por Pablo Phillipe Cândido dos Santos, destinado a apoiar candidatos no acompanhamento de processos seletivos de residência médica. Reúne calendários, prazos, etapas e links de editais e informações, com pesquisa, filtros, notificações configuráveis e disponibilidade local dos dados sincronizados.
-
-O desenvolvimento contou com a utilização de ferramentas de inteligência artificial generativa como recurso auxiliar, mantendo-se sob responsabilidade do autor a concepção, implementação, integração e verificação do projeto.
-
-Currículo Lattes: [http://lattes.cnpq.br/9500873674712528](http://lattes.cnpq.br/9500873674712528)
-
 ## Funcionalidades
 
 - calendário pesquisável com filtros por UF e situação;
@@ -195,3 +187,12 @@ O diretório reference/ não é empacotado no APK. Ele contém o Apps Script do 
 - tema Android: Theme.Residex;
 - versão atual do projeto: 3.2.4 (versionCode 3).
 
+---
+
+## 👤 Autoria e desenvolvimento
+
+O Residex é um aplicativo Android nativo desenvolvido de forma independente por Pablo Phillipe Cândido dos Santos, destinado a apoiar candidatos no acompanhamento de processos seletivos de residência médica. Reúne calendários, prazos, etapas e links de editais e informações, com pesquisa, filtros, notificações configuráveis e disponibilidade local dos dados sincronizados.
+
+O desenvolvimento contou com a utilização de ferramentas de inteligência artificial generativa como recurso auxiliar, mantendo-se sob responsabilidade do autor a concepção, implementação, integração e verificação do projeto.
+
+Currículo Lattes: [http://lattes.cnpq.br/9500873674712528](http://lattes.cnpq.br/9500873674712528)
