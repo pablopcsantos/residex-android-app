@@ -1,5 +1,9 @@
 # Residex
 
+*Read this in other languages: [English](README-en.md)*
+
+---
+
 Residex é um aplicativo Android para acompanhar processos seletivos de
 residência médica. O app reúne inscrições, provas, resultados e links oficiais
 em uma experiência otimizada para smartphones, com dados sincronizados e cache
